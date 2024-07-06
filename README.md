@@ -15,7 +15,8 @@ This Chrome extension fetches content from a webpage when activated. Users can c
    vii. manifest.json 
   viii. popup.html 
     ix. popup.js 
-     x. requirements.txt 
+     x. requirements.txt
+4. Demo screenshots
 ## Installation
 To install and use the extension, follow these steps:
 
@@ -66,3 +67,6 @@ The popup.js file is a JavaScript source file that manages the interaction withi
 
 ### requirements.txt
 The requirements.txt file lists the Python dependencies needed to run the extension's backend.
+
+## Demo Screenshots
+Here are some screenshots demonstrating the extension in action:
