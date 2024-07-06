@@ -6,16 +6,16 @@ This Chrome extension fetches content from a webpage when activated. Users can c
 1. Installation
 2. Usage
 3. Folder Structure
-4. .env
-5. app
-6. background
-7. content
-8. HTMLLoader
-9. icon
-10. manifest
-11. popup
-12. popup.js
-13. requirements
+     i. .env
+    ii. app
+   iii. background
+    iv. content
+     v. HTMLLoader
+    vi. icon
+   vii. manifest
+  viii. popup
+    ix. popup.js
+     x. requirements
 ## Installation
 To install and use the extension, follow these steps:
 
