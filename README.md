@@ -70,3 +70,8 @@ The requirements.txt file lists the Python dependencies needed to run the extens
 
 ## Demo Screenshots
 Here are some screenshots demonstrating the extension in action:
+1. ![demo 1](https://github.com/1biswarup2/RagExtension/blob/main/Screenshot%20(5).png)
+2. ![demo 2](https://github.com/1biswarup2/RagExtension/blob/main/Screenshot%20(6).png)
+3. ![demo 3](https://github.com/1biswarup2/RagExtension/blob/main/Screenshot%20(7).png)
+
+
