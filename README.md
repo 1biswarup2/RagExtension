@@ -5,7 +5,7 @@ This Chrome extension fetches content from a webpage when activated. Users can c
 ## Table of Contents
 1. Installation
 2. Usage
-3. Folder Structure:
+3. ### Folder Structure:
      i. .env
     ii. app
    iii. background
